@@ -1,0 +1,5 @@
+nama :sofa single seater 
+harga sewa:150 k /unit 
+harga sewa double seater :300 k 
+Harga sewa 3 seater  450 k 
+warna : hitam dan putih
